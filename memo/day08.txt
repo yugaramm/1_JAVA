@@ -1,0 +1,21 @@
+자동차 세큐리티 프로그램
+	
+자동차 클래스
+	String name;
+	int pw;
+	boolean door;
+	boolean engine;
+
+	opendoor 메소드
+		문이 잠겨있다면, 열어준다.
+		문이 열려있다면, 닫아준다.
+
+		단, 문이 잠겨있다면, 비밀번호를 확인한 후에 열어줘야 함
+		비밀번호를 입력할 기회는 총 3번
+		경찰 출동 출력하면서 프로그램 종료
+
+	engineStart 메소드
+		문이 열려있고, 시동이 꺼져있는 상태에서만 시동 켜짐 <- 출력 후 engine true
+
+	engineStop 메소드
+		문이 열려있고, 시동이 켜져있는 상태에서만 시동 꺼짐 <- 출력 후 engine false

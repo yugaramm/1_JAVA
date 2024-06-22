@@ -1,0 +1,20 @@
+강의명: 웹개발1
+강사명: 류호근
+수업 기간: 월~금(격주 금 휴강)
+
+메일 주소: hogeun4656@gmail.com
+메일 제목: 웹개발 1900 유가람
+메일 내용: 코드(텍스트) 그대로 복사 붙여넣기, 오류가 있다면 오류 코드도 함께, 자세한 설명 등등
+
+카카오톡 오픈채팅방
+- 매일 수업 자료 공유
+- 스트리밍 url 공유
+
+지각 / 결석 되도록 하지 않기!
+
+1. java
+2. DMBS, SQL, JDBC
+3. 웹표준 (HTML, CSS, JS), ajax, Git
+4. Vue.js, Spring, MyBatis
+5. Spring, Restful, Spring security
+6. JPA, 프로젝트
